@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Studia/PWP/OpenIGTLink/Examples/SessionManager/CMakeLists.txt
+  CMake does not need to re-run because C:/Studia/PWP/OpenIGTLink/Build/Examples/SessionManager/CMakeFiles/generate.stamp is up-to-date.
+  SessionManagerServer.cxx
+C:\Studia\PWP\OpenIGTLink\Source\igtlMessageHandlerMacro.h(32): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+     Trwa tworzenie biblioteki C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/SessionManagerServer.lib i obiektu C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/SessionManagerServer.exp
+  SessionManagerServer.vcxproj -> C:\Studia\PWP\OpenIGTLink\Build\bin\Debug\SessionManagerServer.exe

@@ -1,0 +1,59 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/googletest"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/bf4516cf6f05ca56c57b8a62da51f4c2/googletest.rule"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/74372624b4cdf4dc1b90236661700360/googletest-complete.rule"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/a7ef3ac1c6acc631907053646a4edef5/googletest-install.rule"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/a7ef3ac1c6acc631907053646a4edef5/googletest-mkdir.rule"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/a7ef3ac1c6acc631907053646a4edef5/googletest-download.rule"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/a7ef3ac1c6acc631907053646a4edef5/googletest-update.rule"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/a7ef3ac1c6acc631907053646a4edef5/googletest-patch.rule"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/a7ef3ac1c6acc631907053646a4edef5/googletest-configure.rule"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/a7ef3ac1c6acc631907053646a4edef5/googletest-build.rule"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/a7ef3ac1c6acc631907053646a4edef5/googletest-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "googletest" ],
+		"name" : "googletest"
+	}
+}

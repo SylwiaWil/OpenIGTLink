@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Studia/PWP/OpenIGTLink/Examples/Bind/CMakeLists.txt
+  CMake does not need to re-run because C:/Studia/PWP/OpenIGTLink/Build/Examples/Bind/CMakeFiles/generate.stamp is up-to-date.
+  BindClient.cxx
+     Trwa tworzenie biblioteki C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/BindClient.lib i obiektu C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/BindClient.exp
+  BindClient.vcxproj -> C:\Studia\PWP\OpenIGTLink\Build\bin\Debug\BindClient.exe

@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Studia/PWP/OpenIGTLink/Examples/Status/CMakeLists.txt
+  CMake does not need to re-run because C:/Studia/PWP/OpenIGTLink/Build/Examples/Status/CMakeFiles/generate.stamp is up-to-date.
+  StatusClient.cxx
+     Trwa tworzenie biblioteki C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/StatusClient.lib i obiektu C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/StatusClient.exp
+  StatusClient.vcxproj -> C:\Studia\PWP\OpenIGTLink\Build\bin\Debug\StatusClient.exe

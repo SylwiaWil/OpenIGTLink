@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Studia/PWP/OpenIGTLink/Examples/Capability/CMakeLists.txt
+  CMake does not need to re-run because C:/Studia/PWP/OpenIGTLink/Build/Examples/Capability/CMakeFiles/generate.stamp is up-to-date.
+  CapabilityClient.cxx
+     Trwa tworzenie biblioteki C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/CapabilityClient.lib i obiektu C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/CapabilityClient.exp
+  CapabilityClient.vcxproj -> C:\Studia\PWP\OpenIGTLink\Build\bin\Debug\CapabilityClient.exe

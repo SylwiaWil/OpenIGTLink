@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Studia/PWP/OpenIGTLink/Examples/Trajectory/CMakeLists.txt
+  CMake does not need to re-run because C:/Studia/PWP/OpenIGTLink/Build/Examples/Trajectory/CMakeFiles/generate.stamp is up-to-date.
+  TrajectoryClient.cxx
+     Trwa tworzenie biblioteki C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/TrajectoryClient.lib i obiektu C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/TrajectoryClient.exp
+  TrajectoryClient.vcxproj -> C:\Studia\PWP\OpenIGTLink\Build\bin\Debug\TrajectoryClient.exe

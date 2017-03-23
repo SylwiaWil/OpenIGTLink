@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Studia/PWP/OpenIGTLink/Examples/Imager/CMakeLists.txt
+  CMake does not need to re-run because C:/Studia/PWP/OpenIGTLink/Build/Examples/Imager/CMakeFiles/generate.stamp is up-to-date.
+  ImagerClient.cxx
+     Trwa tworzenie biblioteki C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/ImagerClient.lib i obiektu C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/ImagerClient.exp
+  ImagerClient.vcxproj -> C:\Studia\PWP\OpenIGTLink\Build\bin\Debug\ImagerClient.exe

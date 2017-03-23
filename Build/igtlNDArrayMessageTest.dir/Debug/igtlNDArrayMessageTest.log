@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Studia/PWP/OpenIGTLink/Testing/CMakeLists.txt
+  CMake does not need to re-run because C:/Studia/PWP/OpenIGTLink/Build/Testing/CMakeFiles/generate.stamp is up-to-date.
+  igtlNDArrayMessageTest.cxx
+     Trwa tworzenie biblioteki C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/igtlNDArrayMessageTest.lib i obiektu C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/igtlNDArrayMessageTest.exp
+  igtlNDArrayMessageTest.vcxproj -> C:\Studia\PWP\OpenIGTLink\Build\bin\Debug\igtlNDArrayMessageTest.exe

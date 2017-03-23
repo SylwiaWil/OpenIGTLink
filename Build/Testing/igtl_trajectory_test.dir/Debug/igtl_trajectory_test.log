@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Studia/PWP/OpenIGTLink/Testing/igtlutil/CMakeLists.txt
+  CMake does not need to re-run because C:/Studia/PWP/OpenIGTLink/Build/Testing/igtlutil/CMakeFiles/generate.stamp is up-to-date.
+  igtl_trajectory_test.c
+     Trwa tworzenie biblioteki C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/igtl_trajectory_test.lib i obiektu C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/igtl_trajectory_test.exp
+  igtl_trajectory_test.vcxproj -> C:\Studia\PWP\OpenIGTLink\Build\bin\Debug\igtl_trajectory_test.exe

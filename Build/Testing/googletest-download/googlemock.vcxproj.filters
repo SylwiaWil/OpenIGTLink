@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Studia\PWP\OpenIGTLink\Build\Testing\googletest-download\CMakeLists.txt" />
+    <CustomBuild Include="C:\Studia\PWP\OpenIGTLink\Build\Testing\googletest-download\CMakeFiles\292ddb12153acdf0e69f5734b7afe7c1\googlemock-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Studia\PWP\OpenIGTLink\Build\Testing\googletest-download\CMakeFiles\292ddb12153acdf0e69f5734b7afe7c1\googlemock-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Studia\PWP\OpenIGTLink\Build\Testing\googletest-download\CMakeFiles\292ddb12153acdf0e69f5734b7afe7c1\googlemock-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Studia\PWP\OpenIGTLink\Build\Testing\googletest-download\CMakeFiles\292ddb12153acdf0e69f5734b7afe7c1\googlemock-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Studia\PWP\OpenIGTLink\Build\Testing\googletest-download\CMakeFiles\292ddb12153acdf0e69f5734b7afe7c1\googlemock-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Studia\PWP\OpenIGTLink\Build\Testing\googletest-download\CMakeFiles\292ddb12153acdf0e69f5734b7afe7c1\googlemock-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Studia\PWP\OpenIGTLink\Build\Testing\googletest-download\CMakeFiles\292ddb12153acdf0e69f5734b7afe7c1\googlemock-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Studia\PWP\OpenIGTLink\Build\Testing\googletest-download\CMakeFiles\292ddb12153acdf0e69f5734b7afe7c1\googlemock-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Studia\PWP\OpenIGTLink\Build\Testing\googletest-download\CMakeFiles\74372624b4cdf4dc1b90236661700360\googlemock-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Studia\PWP\OpenIGTLink\Build\Testing\googletest-download\CMakeFiles\bf4516cf6f05ca56c57b8a62da51f4c2\googlemock.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Studia\PWP\OpenIGTLink\Build\Testing\googletest-download\CMakeFiles\googlemock" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{34282A6B-F2D3-3BF9-B903-3AFA3D9FAFB5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

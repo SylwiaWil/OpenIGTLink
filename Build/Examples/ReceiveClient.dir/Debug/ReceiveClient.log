@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Studia/PWP/OpenIGTLink/Examples/Receiver/CMakeLists.txt
+  CMake does not need to re-run because C:/Studia/PWP/OpenIGTLink/Build/Examples/Receiver/CMakeFiles/generate.stamp is up-to-date.
+  ReceiveClient.cxx
+     Trwa tworzenie biblioteki C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/ReceiveClient.lib i obiektu C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/ReceiveClient.exp
+  ReceiveClient.vcxproj -> C:\Studia\PWP\OpenIGTLink\Build\bin\Debug\ReceiveClient.exe

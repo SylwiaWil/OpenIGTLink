@@ -1,0 +1,59 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/googlemock"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/bf4516cf6f05ca56c57b8a62da51f4c2/googlemock.rule"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/74372624b4cdf4dc1b90236661700360/googlemock-complete.rule"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/292ddb12153acdf0e69f5734b7afe7c1/googlemock-install.rule"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/292ddb12153acdf0e69f5734b7afe7c1/googlemock-mkdir.rule"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/292ddb12153acdf0e69f5734b7afe7c1/googlemock-download.rule"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/292ddb12153acdf0e69f5734b7afe7c1/googlemock-update.rule"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/292ddb12153acdf0e69f5734b7afe7c1/googlemock-patch.rule"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/292ddb12153acdf0e69f5734b7afe7c1/googlemock-configure.rule"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/292ddb12153acdf0e69f5734b7afe7c1/googlemock-build.rule"
+		},
+		
+		{
+			"file" : "C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/292ddb12153acdf0e69f5734b7afe7c1/googlemock-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "googlemock" ],
+		"name" : "googlemock"
+	}
+}

@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Studia/PWP/OpenIGTLink/Examples/Tracker/CMakeLists.txt
+  CMake does not need to re-run because C:/Studia/PWP/OpenIGTLink/Build/Examples/Tracker/CMakeFiles/generate.stamp is up-to-date.
+  TrackerClient.cxx
+     Trwa tworzenie biblioteki C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/TrackerClient.lib i obiektu C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/TrackerClient.exp
+  TrackerClient.vcxproj -> C:\Studia\PWP\OpenIGTLink\Build\bin\Debug\TrackerClient.exe
