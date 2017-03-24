@@ -1,4 +1,0 @@
-C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/googletest.dir
-C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/googlemock.dir
-C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/ALL_BUILD.dir
-C:/Studia/PWP/OpenIGTLink/Build/Testing/googletest-download/CMakeFiles/ZERO_CHECK.dir

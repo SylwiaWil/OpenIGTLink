@@ -1,7 +1,0 @@
-﻿  Building Custom Rule C:/Studia/PWP/OpenIGTLink/Build/Testing/gmock/CMakeLists.txt
-  CMake does not need to re-run because C:/Studia/PWP/OpenIGTLink/Build/Testing/gmock-build/CMakeFiles/generate.stamp is up-to-date.
-  gtest-all.cc
-  gmock-all.cc
-  gmock_main.cc
-  Generowanie kodu...
-  gmock_main.vcxproj -> C:\Studia\PWP\OpenIGTLink\Build\bin\Debug\gmock_main.lib

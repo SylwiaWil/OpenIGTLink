@@ -1,7 +1,0 @@
-# CMake generation dependency list for this directory.
-C:/Studia/PWP/OpenIGTLink/Examples/Tracker/CMakeLists.txt
-C:/Studia/PWP/OpenIGTLink/Build/OpenIGTLinkConfig.cmake
-C:/Studia/PWP/OpenIGTLink/Build/OpenIGTLinkTargets.cmake
-C:/Studia/PWP/OpenIGTLink/Build/UseOpenIGTLink.cmake
-C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeImportBuildSettings.cmake
-C:/Studia/PWP/OpenIGTLink/Build/OpenIGTLinkTargets.cmake

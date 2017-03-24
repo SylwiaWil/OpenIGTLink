@@ -1,5 +1,0 @@
-﻿  Building Custom Rule C:/Studia/PWP/OpenIGTLink/Examples/Point/CMakeLists.txt
-  CMake does not need to re-run because C:/Studia/PWP/OpenIGTLink/Build/Examples/Point/CMakeFiles/generate.stamp is up-to-date.
-  PointServer.cxx
-     Trwa tworzenie biblioteki C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/PointServer.lib i obiektu C:/Studia/PWP/OpenIGTLink/Build/bin/Debug/PointServer.exp
-  PointServer.vcxproj -> C:\Studia\PWP\OpenIGTLink\Build\bin\Debug\PointServer.exe
